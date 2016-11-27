@@ -53,3 +53,4 @@ Then push to Github
 
   - Transform the `campaigns_csv/*.csv` files to `json/*.json` keeping the name
   - For each line in the CSVs file referenced in a template in `src/*.md` generate a page based on the configuration
+# ubersales.github.io

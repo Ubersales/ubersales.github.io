@@ -91,7 +91,7 @@ identification of the material that is claimed to be infringing or to be the sub
 Toronto, ON<br>
 Canada<br>
 M4Y 0B8<br>
-By email: legal@Ubersales.com</p>
+By email: legal@Ubersales.io</p>
   <p>The Copyright Agent should only be contacted if you believe that your work has been used or copied in a way that constitutes copyright infringement and such infringement is occurring on or through the Services. The Copyright Agent will not respond to any other inquiries.</p>
   <h2 class="ui header">8\. CANCELLATION AND TERMINATION</h2>
   <p>Termination of Your Account. Ubersales, in its sole discretion, may without liability or penalty terminate your password and/or Account and/or any Paid Features, remove your access to the Services and/or discard any Content and/or Created Content within the Services for any reason, including without limitation, lack of use, or if Ubersales believes that you have violated or acted inconsistently with the letter or spirit of these Terms of Service. In such event, but subject to any survival provisions herein, any contracts, verbal or written or assumed, in conjunction with your Account and all its parts, at Ubersales’ discretion, will be terminated as well. Any termination of your access to the Services under any provision of these Terms of Service may be effected without prior notice.</p>
