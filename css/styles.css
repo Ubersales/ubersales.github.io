@@ -1,0 +1,416 @@
+body, textarea, h1, h2, h3, h4, h5, .ui.button, .ui.text.container, .ui.header {
+  font-family: "Roboto"!important;
+}
+
+#main-page-header-img-none .ui.stackable.menu .item {
+    width: auto !important;
+}
+
+
+.red {
+  background-color: #ea272b!important;
+}
+
+.blue {
+  background-color: #5FBBD4!important;
+}
+
+/* Layout page from Semantic-UI */
+
+  .hidden.menu {
+    display: none;
+  }
+
+  .masthead.segment {
+    min-height: 700px;
+    padding: 1em 0em;
+  }
+  .masthead .logo.item img {
+    margin-right: 1em;
+  }
+  .masthead .ui.menu .ui.button {
+    margin-left: 0.5em;
+  }
+  .masthead h1.ui.header {
+    margin-top: 3em;
+    margin-bottom: 0em;
+    font-size: 4em;
+    font-weight: normal;
+  }
+  .masthead h2 {
+    font-size: 1.7em;
+    font-weight: normal;
+  }
+
+  .ui.vertical.stripe {
+    padding: 8em 0em;
+  }
+  .ui.vertical.stripe h3 {
+    font-size: 2em;
+  }
+
+
+  .ui.vertical.stripe .button + h3,
+  .ui.vertical.stripe p + h3 {
+    margin-top: 3em;
+  }
+  .ui.vertical.stripe .floated.image {
+    clear: both;
+  }
+  .ui.vertical.stripe p {
+    font-size: 1.33em;
+  }
+  .ui.vertical.stripe .horizontal.divider {
+    margin: 3em 0em;
+  }
+
+  .quote.stripe.segment {
+    padding: 0em;
+  }
+  .quote.stripe.segment .grid .column {
+    padding-top: 5em;
+    padding-bottom: 5em;
+  }
+
+  .footer.segment {
+    padding: 5em 0em;
+  }
+
+  .secondary.pointing.menu .toc.item {
+    display: none;
+  }
+
+  @media only screen and (max-width: 700px) {
+    .ui.fixed.menu {
+      display: none !important;
+    }
+    .secondary.pointing.menu .item,
+    .secondary.pointing.menu .menu {
+      display: none;
+    }
+    .secondary.pointing.menu .toc.item {
+      display: block;
+    }
+    .masthead.segment {
+      min-height: 350px;
+    }
+    .masthead h1.ui.header {
+      font-size: 2em;
+      margin-top: 1.5em;
+    }
+    .masthead h2 {
+      margin-top: 0.5em;
+      font-size: 1.5em;
+    }
+  }
+
+/* Custom */
+
+.ui.fixed.inverted.menu{
+  background-color:#f70250;
+}
+.ui.fixed.inverted.menu .ui.container{
+  width:95%!important;
+}
+.ui.fixed.inverted.menu .ui.container .item{
+  border:none;
+}
+
+.networks{
+  margin-top:10px !important;
+}
+
+#popup-offering .grid,
+#popup-more .grid{
+  padding-right: 1.5rem;
+}
+
+.ui.inverted.red.segment {
+    background-color: #f70250!important;
+}
+.ui.inverted.menu, .red.active.item, .ui.inverted.red.menu {
+    background-color: #f70250;
+    border-radius: 0px;
+}
+.ui.inverted.segment, .ui.primary.inverted.segment {
+    background-color: #2A2C35!important;
+}
+.ui.inverted.segment, .ui.primary.inverted.segment {
+    background-color: #2A2C35!important;
+}
+
+#ppc-smb-offer {
+  padding: 8em 0em;
+}
+
+#ppc-smb-offer h3 {
+  font-size: 2em;
+}
+#ppc-smb-offer .button + h3,
+#ppc-smb-offer p + h3 {
+  margin-top: 3em;
+}
+#ppc-smb-offer .floated.image {
+  clear: both;
+}
+#ppc-smb-offer p {
+  font-size: 1.33em;
+}
+
+#ppc-smb-offer-2 {
+  margin-top: 3em!important;
+}
+
+#margin-top-1-5em {
+  margin-top: 1.5em!important;
+}
+
+#conversion-header-title {
+  font-size: 2.6em!important;
+  font-weight: 400!important;
+}
+
+
+#margin-top-3em {
+  margin-top: 3em!important;
+}
+
+#margin-top-2em {
+  margin-top: 2em!important;
+}
+
+#margin-top-6em {
+  margin-top: 7em!important;
+}
+
+#margin-top-7em {
+  margin-top: 7em!important;
+}
+
+#margin-top-bottom-7em {
+  margin-top: 7em!important;
+  margin-bottom: 7em!important;
+
+}
+
+#margin-top-bottom-3em {
+  margin-top: 3em!important;
+  margin-bottom: 3em!important;
+
+}
+
+#ppc-smb-offer-br {
+  margin-top: -0.8em!important;
+}
+
+#ppc-smb-offer-br1 {
+  margin-top: 1.5em!important;
+}
+
+#main-page-header-img {
+   background: url(/img/main-header-image.jpeg) no-repeat top center!important;
+   background-size: cover!important;
+}
+
+#conversion-page-header-img {
+
+  background-image:url("/img/Plumlytics-analytics-header-conversion-cta.png");
+  background-repeat:no-repeat;
+  background-size:350px;
+  background-position:50.29% center;
+  padding:60px 0;
+  margin:2rem 0;
+
+}
+/* Custom Labels */
+
+#get-started-button-top {
+      color: #ffffff;
+      font-weight: 400;
+      border-color: #ffffff;
+      border-width: 1px;
+      margin:0.5em;
+}
+
+#get-started-button-top:hover {
+      color: #f70250;
+}
+
+#supported-integrations i.icon  {
+    margin: 0 1.4em 1.3em 0;
+}
+
+
+#user-onboarding {
+    margin-top: 1.33em!important;
+
+}
+
+#right-audience {
+    margin-top: 210px!important;
+    color: #2A2C35!important;
+    letter-spacing: 2px!important;
+    font-weight: 500;
+    font-size: 18px;
+
+}
+
+#get-started-button-demo-cta-top {
+    margin-top: 40px!important;
+
+}
+
+#card-text-after-heading {
+    margin-top: 12px!important;
+
+}
+
+#card-text-heading {
+    margin-top: 18.5px!important;
+
+}
+
+#heading-row-diff {
+    margin-top: 4em!important;
+
+}
+
+
+
+#sub-page-heading {
+    color: #2A2C35!important;
+    letter-spacing: 2px!important;
+
+}
+
+#supported-channels {
+  margin-top: 200px!important;
+  letter-spacing: 8px!important;
+  font-weight: 500!important;
+  font-size: 14px;
+}
+
+
+#sub-headings {
+  margin-bottom: 80px!important;
+}
+
+
+#head-tag-line {
+    margin-top: 190px!important;
+    color: #ffffff!important;
+    letter-spacing: 2px!important;
+    font-size:40px!important;
+    font-weight:900;
+
+}
+
+#head-tag-line-a {
+    margin-top: 75px!important;
+    color: #ffffff!important;
+    letter-spacing: 2px!important;
+    font-size:40px!important;
+    font-weight:900;
+}
+
+
+#head-tag-line-b {
+    margin-top: 28px!important;
+    color: #ffffff!important;
+    letter-spacing: 2px!important;
+    font-size:36px!important;
+    font-weight:700;
+}
+
+#head-tag-line-subheading {
+  margin-top: 20px!important;
+  color: #ffffff!important;
+  letter-spacing: 2px!important;
+  font-size:18px!important;
+  font-weight:300;
+}
+
+#pricing-table {
+  margin-top: 75px!important;
+}
+
+.pricing-table.ui.grid {
+  margin: -10rem!important;
+}
+
+
+#features {
+    margin-top: 75px!important;
+}
+
+#spacing-115px {
+    padding-top: 115px!important;
+}
+
+#head-tag-line-2 {
+    color: #ffffff!important;
+    letter-spacing: 2px!important;
+    font-size:20px!important;
+    font-weight:500;
+
+}
+
+#head-tag-line-blog {
+    color: #2A2C35!important;
+    letter-spacing: 3px!important;
+    font-size:28px!important;
+    font-weight:300;
+    margin-top: 50px!important;
+    margin-bottom: 70px!important;
+
+}
+
+#big-logo-main-page {
+    margin-top: 45px!important;
+
+}
+
+#supported-functions {
+  margin-top: 45px!important;
+
+}
+
+
+#commited-to-sucess {
+  margin-top: 65px!important;
+}
+
+#learn-more-about-tool {
+  margin-top: 65px!important;
+  font-size:18px!important;
+  font-weight:300;
+}
+
+#learn-more-about-tool-font {
+  color: #fff!important;
+
+}
+
+#where-plumlytics-is-made {
+  background: none!important;
+        margin-bottom: 75px!important;
+}
+
+@media only screen and (max-width: 700px) {
+  #head-tag-line {
+      font-size:30px!important;
+      font-weight:700!important;
+      margin-top: 50px!important;
+      margin-bottom: 70px!important;
+      }
+      #thinking-like-humans {
+      display: none!important;
+    }
+  }
+
+
+@media only screen and (max-width: 700px) {
+    #head-tag-line-blog {
+    font-size:40px;
+    }
+    }
