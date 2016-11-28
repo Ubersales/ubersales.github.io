@@ -7,11 +7,9 @@ layout: press-center.html
  <div class="ui vertical stripe segment">
   <div class="ui center text container">
   <h3 class="ui header">What we Do?</h3>
-  <p>Ubersales launched it's innovative service in November, 2016\. Powered by a cutting edge artificial intelligence tool.<br></p>
-  <p>Please contact us at contact@Ubersales.io for Presskit and Brand assets.</p>
+  <p>Ubersales launched it's innovative service in November, 2016 Powered by cutting edge artificial intelligence tools.<br></p>
+  <p>Please contact us at press@UberSales.io for Presskit and Brand assets.</p>
   <br>
-  <p>We are planning to add those here for your in the very near future</p>
+  <p>We are planning to the Brand assets here for your in the very near future</p>
 </div>
-  <p>
-</p>
 </div>
