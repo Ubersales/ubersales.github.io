@@ -10,7 +10,7 @@ layout: Company.html
   <p>A journey to help businesses grow.</p>
   <p>UberSale is a technology company based in Toronto, Canada, that sells Online Sales on a performance fee basis.</p>
   <h3 class="ui header">Our <span style="color:red;">Technology</span></h3>
-  <p>We extensively use artificial intelligence with thought and discipline to give unmatched online sales conversion.</p>
+  <p>We use artificial intelligence with thought and discipline to give you unmatched online sales conversion.</p>
   <h3>Our <span style="color:red;">Mission</span></h3>
   <p>Deliver online sales for our partners.</p>
 </div>
