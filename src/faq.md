@@ -12,5 +12,9 @@ layout: faq.html
   <p>We  empower your bottom line by building, implementing and iterating on real-time online lead generation campaigns to drive your online sales, so you can focus on your brand and your product.</p>
   <h3 class="ui header">3\.  What does it do?</h3>
   <p>Our artificial intelligence driven campaigns find audiences online in real-time, they never stop optimizing traffic for cost and conversion,  allowing you to conquer your sales without lifting a finger.</p>
+  <h3 class="ui header">4\.  What does it do?</h3>
+  <p>Our artificial intelligence driven campaigns find audiences online in real-time, they never stop optimizing traffic for cost and conversion,  allowing you to conquer your sales without lifting a finger.</p>
+  <h3 class="ui header">4\.  Is it a marketplace?</h3>
+  <p>No. It is artificial intelligence-driven based marketing automation. It is your brand and our shopping cart. The AI drives highly optimized buy-Intent-based traffic to your branded pages. We complete the transaction and send you the order.  Let's say you are a pizza store, or a nutrition company, or a B2B SaaS vendor, we will create the campaigns, run them, optimize them and drive sales for your business. We give you the desired outcome. Sales.</p>
 </div>
 </div>
