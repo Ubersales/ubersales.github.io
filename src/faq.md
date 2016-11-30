@@ -16,6 +16,8 @@ layout: faq.html
   <p>No. It is artificial intelligence-driven marketing automation. It is your brand and our shopping cart. </p>
   <p>The AI drives highly optimized buy-Intent-based traffic to the shopping cart on  your branded landing pages. We complete the transaction and send you the order.  </p>
   <p>Let's say you are a pizza store, or a nutrition company, or a B2B SaaS vendor, we will create the campaigns, run them, optimize them and drive sales for your business. We give you, your desired outcome. Sales.</p>
+  <h3 class="ui header">5\.  Am I outsourceing my Sales?
+  <p>Yes. That is the core concept. Take away the #1 issue faced by businesses. Sales.</p></h3>
 </div>
 </div>
 
