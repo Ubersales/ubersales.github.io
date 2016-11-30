@@ -11,7 +11,7 @@ var pdf = require('metalsmith-pdf');
 Metalsmith(__dirname)
   .metadata({
     title: "Ubersales | Stress-Free Online Sales",
-    description: "We  empower your bottom line by building, implementing and iterating on campaigns to drive your online sales, so you can focus on your brand and your product.",
+    description: "We handle your online sales from marketing to transaction so you can focus on your brand and your product.",
     generator: "Metalsmith",
     url: "http://www.ubersales.io",
     latitude: "43.6437147",
