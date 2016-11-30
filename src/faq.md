@@ -11,7 +11,7 @@ layout: faq.html
   <h3 class="ui header">2\.  How does it work?</h3>
   <p>We build, run and iterate real-time lead generation campaigns to drive your online transactional sales. Freeing you to focus on the creative work of building your brand and innovating on your product.</p>
   <h3 class="ui header">3\.  What does it do?</h3>
-  <p>Our artificial intelligence drives online campaigns in real-time, finds your target audiences, continuously  optimizes traffic for cost and conversion. Allowing you to conquer your sales and cut sales risk.</p>
+  <p>Our artificial intelligence drives online campaigns in real-time, finds your target audiences, continuously  optimizes traffic for cost and conversion. Allowing you to conquer your sales and cut the sales risk from your business.</p>
   <h3 class="ui header">4\.  Is it a marketplace?</h3>
   <p>No. It is artificial intelligence-driven marketing automation. It is your brand and our shopping cart. </p>
   <p>The AI drives highly optimized buy-Intent-based traffic to the shopping cart on  your branded landing pages. We complete the transaction and send you the order.  </p>
