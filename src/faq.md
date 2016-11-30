@@ -14,7 +14,7 @@ layout: faq.html
   <p>Our artificial intelligence drives online campaigns in real-time, finds your target audiences, continuously  optimizes traffic for cost and conversion. Allowing you to conquer your sales and cut the sales risk from your business.</p>
   <h3 class="ui header">4\.  Is it a marketplace?</h3>
   <p>No. It is artificial intelligence-driven marketing automation. It is your brand and our shopping cart. </p>
-  <p>The AI drives highly optimized buy-Intent-based traffic to the shopping cart on  your branded landing pages. We complete the transaction and send you the order.  </p>
+  <p>The AI drives highly optimized traffic which is full of Buyer-Intent to the shopping cart on  your branded landing pages. We complete the transaction and send you the order. Simple! </p>
   <p>Let's say you are a pizza store, or a nutrition company, or a B2B SaaS vendor, we will create the campaigns, run them, optimize them and drive sales for your business. We give you, your desired outcome. Sales.</p>
   <h3 class="ui header">5\.  Am I outsourcing my Online Sales?</h3>
   <p>Yes. That is the core concept. We take away the #1 issue faced by businesses. Online Sales.</p>
